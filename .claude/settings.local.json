@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "PowerShell($paths = @\\(\"$env:ProgramFiles\\\\nodejs\\\\node.exe\",\"${env:ProgramFiles\\(x86\\)}\\\\nodejs\\\\node.exe\",\"$env:LOCALAPPDATA\\\\Programs\\\\nodejs\\\\node.exe\",\"$env:APPDATA\\\\npm\\\\node.exe\"\\); foreach\\($p in $paths\\){ if\\(Test-Path $p\\){ Write-Output \"FOUND: $p\" } }; Get-Command nvm -ErrorAction SilentlyContinue | Select-Object Source; where.exe node 2>$null)",
+      "PowerShell(winget --version)",
+      "PowerShell(winget source list 2>$null)",
+      "PowerShell(winget install --id OpenJS.NodeJS.LTS -e --accept-source-agreements --accept-package-agreements --silent)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); & \"$env:ProgramFiles\\\\nodejs\\\\node.exe\" --version; & \"$env:ProgramFiles\\\\nodejs\\\\npm.cmd\" --version)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; npm install 2>&1 | Select-Object -Last 15)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; npm approve-scripts esbuild 2>&1 | Select-Object -Last 5; Write-Output \"--- rebuild ---\"; npm rebuild esbuild 2>&1 | Select-Object -Last 5)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; npm run dev)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(node -e \"setTimeout\\(\\(\\)=>{},700\\)\")",
+      "PowerShell(Start-Process \"http://localhost:5173\")",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; npm install react-router-dom@^6 2>&1 | Select-Object -Last 8)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; npm ls react react-dom react-router-dom 2>&1)",
+      "PowerShell(winget search poppler --accept-source-agreements 2>&1)",
+      "PowerShell(winget search poppler --accept-source-agreements 2>$null)",
+      "PowerShell(winget install --id oschwartz10612.Poppler -e --accept-source-agreements --accept-package-agreements 2>&1)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); $c = Get-Command pdftoppm -ErrorAction SilentlyContinue; if \\($c\\) { Write-Output \\(\"OK: \" + $c.Source\\); & pdftoppm -v 2>&1 | Select-Object -First 2 } else { Write-Output \"pdftoppm no encontrado en PATH\" })",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\) + \";$env:APPDATA\\\\npm\"; Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; vercel login dv056806@gmail.com)",
+      "PowerShell(Start-Process \"https://vercel.com/oauth/device?user_code=VRWV-VZMP\")",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\) + \";$env:APPDATA\\\\npm\"; Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; vercel login)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\) + \";$env:APPDATA\\\\npm\"; Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; vercel --prod --yes 2>&1 | Out-String)",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\) + \";$env:APPDATA\\\\npm\"; Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; vercel --prod --yes --name daniel-vargas-portafolio 2>&1 | Out-String)",
+      "WebFetch(domain:daniel-vargas-portafolio.vercel.app)",
+      "WebFetch(domain:uthinhpham.com)",
+      "mcp__Claude_in_Chrome__list_connected_browsers",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__computer",
+      "mcp__Claude_in_Chrome__get_page_text",
+      "PowerShell(Start-Process \"http://localhost:5173/\")",
+      "PowerShell(Copy-Item \"D:\\\\USER\\\\DESCARGAS\\\\WhatsApp Image 2026-07-02 at 3.49.01 PM.jpeg\" \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\\\\public\\\\daniel.jpg\" -Force; Write-Output \\(\"Copiada: \" + \\(\\(Get-Item 'D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\\\\public\\\\daniel.jpg'\\).Length/1KB\\).ToString\\('0'\\) + ' KB'\\))",
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); Set-Location \"D:\\\\USER\\\\DESCARGAS\\\\portafolio carpeta\"; npm run build 2>&1 | Select-Object -Last 12)"
+    ]
+  }
+}
