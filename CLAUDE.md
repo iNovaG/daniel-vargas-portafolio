@@ -11,6 +11,22 @@
 **Dueño:** Daniel Alberto Vargas Figueroa — Diseñador Gráfico, Bucaramanga (Colombia).
 **Idioma de trabajo:** español.
 
+## Cuentas de Daniel (las tres con el mismo correo)
+
+| Servicio | Correo de la cuenta | Usuario / equipo |
+|---|---|---|
+| GitHub | **dv056806@gmail.com** | `iNovaG` |
+| Vercel | **dv056806@gmail.com** | `dv056806-2579`, equipo `nova-g` |
+| Supabase | **dv056806@gmail.com** | organización "Daniel Wolrdmind" |
+
+`coordinadormercadeo@chp.com.co` es su correo del trabajo: **no** es el de estas cuentas.
+
+> **Recordatorio para Claude:** al empezar un chat nuevo en este proyecto, y otra
+> vez **cada vez que haya que iniciar sesión** (`gh auth login`, `npx vercel login`,
+> entrar a supabase.com), recuérdale a Daniel en una línea:
+> *"Recuerda: tus cuentas de GitHub, Vercel y Supabase son con **dv056806@gmail.com**."*
+> Tú no escribes contraseñas: él completa el inicio de sesión en el navegador.
+
 ---
 
 ## Qué es
