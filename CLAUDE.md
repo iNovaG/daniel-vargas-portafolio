@@ -27,6 +27,13 @@
 > *"Recuerda: tus cuentas de GitHub, Vercel y Supabase son con **dv056806@gmail.com**."*
 > Tú no escribes contraseñas: él completa el inicio de sesión en el navegador.
 
+> **Regla de Daniel: al terminar cualquier cambio, en cualquier proyecto**, sin que
+> él lo pida: 1) `git commit` + `git push`, y 2) actualiza la copia del USB con
+> `powershell -ExecutionPolicy Bypass -File "D:\USER\DESCARGAS\pruebas\actualizar-copia-usb.ps1"`
+> (copia los tres proyectos a `D:\USER\DESCARGAS\COPIA-USB` y pone la fecha en su
+> guía). Díselo en una línea al final: "Subido a GitHub y COPIA-USB actualizada".
+> Si el script no existe en esa ruta (otro PC), díselo en vez de inventar otra copia.
+
 ---
 
 ## Qué es
