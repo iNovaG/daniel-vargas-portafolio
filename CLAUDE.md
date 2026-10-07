@@ -60,14 +60,15 @@
 > | `unzip` (lo usa `leer-excel.js`) | Viene con Git para Windows en `C:\Program Files\Git\usr\bin`; si no está en el PATH, agrégalo a la sesión |
 > | `portafolio carpeta/node_modules` | `npm install` dentro de esa carpeta |
 > | `plataforma-tareas/node_modules` | `npm install` dentro de esa carpeta |
+> | Navegador de Remotion (`pruebas/video/node_modules/.remotion/`) | `npx remotion browser ensure` dentro de `pruebas/video` (~150 MB; va después del `npm install`) |
+> | Whisper (`pruebas/.whisper/ggml-medium.bin`) | `node transcribir.js --instalar` desde `pruebas` (~1,5 GB, tarda unos minutos: córrelo en segundo plano y sigue con lo que pidió Daniel) |
 >
 > Si Windows pide permiso de administrador para un `winget`, avísale a Daniel que lo
 > acepte en la ventana que aparece. Si algo falla (sin internet, permisos), díselo en vez
 > de seguir como si estuviera instalado.
 >
-> **No** se instala por adelantado lo que se baja solo la primera vez que se usa: el
-> navegador de Remotion (~150 MB, al primer render) y el modelo de Whisper (~1,5 GB, al
-> primer `transcribir.js`). Tampoco inicies sesión por él: `gh auth login` y
+> Remotion y Whisper también se instalan por adelantado: Daniel los quiere listos
+> aunque ese día no los use. No inicies sesión por él: `gh auth login` y
 > `npx vercel login` los completa Daniel en el navegador (recuérdale el correo).
 > Si se agrega una dependencia nueva a un proyecto, actualiza esta tabla en los tres
 > `CLAUDE.md`.
