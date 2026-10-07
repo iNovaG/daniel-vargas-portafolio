@@ -27,6 +27,24 @@
 > *"Recuerda: tus cuentas de GitHub, Vercel y Supabase son con **dv056806@gmail.com**."*
 > Tú no escribes contraseñas: él completa el inicio de sesión en el navegador.
 
+> **Recordatorio para Claude (herramientas):** al empezar un chat nuevo, en cualquiera
+> de los tres proyectos, justo después del recordatorio del correo, muéstrale a Daniel
+> esta lista corta para que tenga presente qué tiene y qué puede pedir:
+>
+> **Lo que tienes:**
+> - 📄 **Catálogos CHP**: Excel → catálogo web y PDF para imprimir (`pruebas/`)
+> - 🎬 **Videos con Remotion**: ofertas, reel con textos, ruleta Pintuco, teaser y vallas animadas Expo Show (`pruebas/video/`)
+> - 🎙️ **Transcripción** de videos con Whisper, en local (`node transcribir.js`)
+> - 🧩 **Separar logos y vallas de Illustrator** en piezas para animarlas (`node separar-logo.js`)
+> - 🖌️ **Panel de Illustrator**: exportar mesas, crear mesas, incrustar imágenes (`pruebas/panel-illustrator/`)
+> - 💰 **Bolsillo**, tus finanzas personales: https://bolsillo-two.vercel.app (`pruebas/finanzas/`)
+> - 🧑‍💻 **Portafolio**: https://daniel-vargas-portafolio.vercel.app (`portafolio carpeta/`)
+> - ✅ **Plataforma de tareas** del equipo: https://plataforma-tareas.vercel.app (`plataforma-tareas/`)
+> - 💾 **Respaldo**: GitHub (cuenta `iNovaG`) + `COPIA-USB`, que se actualiza al terminar cada cambio
+>
+> Si se agrega, se renombra o se retira una herramienta, actualiza esta lista en los
+> tres `CLAUDE.md` (`pruebas`, `portafolio carpeta` y `plataforma-tareas`).
+
 > **Regla de Daniel: al terminar cualquier cambio, en cualquier proyecto**, sin que
 > él lo pida: 1) `git commit` + `git push`, y 2) actualiza la copia del USB con
 > `powershell -ExecutionPolicy Bypass -File "D:\USER\DESCARGAS\pruebas\actualizar-copia-usb.ps1"`
