@@ -33,7 +33,7 @@
 >
 > **Lo que tienes:**
 > - 📄 **Catálogos CHP**: Excel → catálogo web y PDF para imprimir (`pruebas/`)
-> - 🎬 **Videos con Remotion**: ofertas, reel con textos, ruleta Pintuco, teaser, vallas animadas Expo Show y promocional Roma (`pruebas/video/`)
+> - 🎬 **Videos con Remotion**: ofertas, reel con textos, ruleta Pintuco, teaser, vallas animadas, promocional Roma y **video oficial Expo Show 2026** (`pruebas/video/`)
 > - 🎙️ **Transcripción** de videos con Whisper, en local (`node transcribir.js`)
 > - 🧩 **Separar logos y vallas de Illustrator** en piezas para animarlas (`node separar-logo.js`)
 > - 🖌️ **Panel de Illustrator**: exportar mesas, crear mesas, incrustar imágenes (`pruebas/panel-illustrator/`)
