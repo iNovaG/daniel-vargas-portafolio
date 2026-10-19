@@ -34,7 +34,7 @@
 > **Lo que tienes:**
 > - 📄 **Catálogos CHP**: Excel → catálogo web y PDF para imprimir (`pruebas/`)
 > - 📑 **Corregir el PDF de homólogos** sin Illustrator: quitar productos, aviso "no tiene homólogo", letreros SOBREPEDIDO / PRODUCTO NUEVO / EXCLUSIVO (`pruebas/homologos/`)
-> - 🧾 **Cheque gigante de premio** Expo Show 7 (150 × 50 cm, PDF/SVG para Illustrator, cualquier valor: `node cheque/generar-cheque.js`)
+> - 🧾 **Cheques gigantes de premio** Expo Show 7 (150 × 50 cm, PDF/SVG para Illustrator; $1.000.000, $500.000, $300.000, $200.000 y $100.000 o cualquier valor: `node cheque/generar-cheque.js`)
 > - 🎬 **Videos con Remotion**: ofertas, reel con textos, ruleta Pintuco, teaser, vallas animadas, promocional Roma, **video oficial Expo Show 2026**, **"Hagamos realidad su próximo proyecto"**, **Ferretería Prado del Sur en la Expo Show** y **"Repintando Sueños"** (video social del colegio) (`pruebas/video/`)
 > - 🎙️ **Transcripción** de videos con Whisper, en local (`node transcribir.js`)
 > - 🧩 **Separar logos y vallas de Illustrator** en piezas para animarlas (`node separar-logo.js`)
