@@ -44,6 +44,7 @@
 > - 💰 **Bolsillo**, tus finanzas personales: https://bolsillo-two.vercel.app (`pruebas/finanzas/`)
 > - 🧑‍💻 **Portafolio**: https://daniel-vargas-portafolio.vercel.app (`portafolio carpeta/`)
 > - ✅ **Plataforma de tareas** del equipo: https://plataforma-tareas.vercel.app (`plataforma-tareas/`)
+> - 🎞️ **Shorts "¿Y si…?"** (tu canal personal): videos virales con `/content-factory` de Higgsfield, estilo Grain Primary; el primero es "¿y si el oxígeno desapareciera?" (`daniel YT/`, guía en su `LEEME.md`)
 > - 💾 **Respaldo**: GitHub (cuenta `iNovaG`) + `COPIA-USB`, que se actualiza al terminar cada cambio
 >
 > Si se agrega, se renombra o se retira una herramienta, actualiza esta lista en los
