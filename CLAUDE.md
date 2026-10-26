@@ -28,27 +28,43 @@
 > Tú no escribes contraseñas: él completa el inicio de sesión en el navegador.
 
 > **Recordatorio para Claude (herramientas):** al empezar un chat nuevo, en cualquiera
-> de los tres proyectos, justo después del recordatorio del correo, muéstrale a Daniel
-> esta lista corta para que tenga presente qué tiene y qué puede pedir:
+> de los proyectos de Daniel (y en la raíz de la COPIA-USB o de su copia en OneDrive),
+> justo después del recordatorio del correo, muéstrale a Daniel esta lista para que
+> tenga presente qué tiene y qué puede pedir:
 >
 > **Lo que tienes:**
-> - 📄 **Catálogos CHP**: Excel → catálogo web y PDF para imprimir (`pruebas/`)
-> - 📑 **Corregir el PDF de homólogos** sin Illustrator: quitar productos, aviso "no tiene homólogo", letreros SOBREPEDIDO / PRODUCTO NUEVO / EXCLUSIVO, y **cambiar fotos** de un PDF por las de otro emparejando por referencia (`pruebas/homologos/`)
-> - 💌 **Invitaciones con nombre**: la invitación del Expo Show 7 con el nombre de cada cliente, una imagen por nombre (`node invitaciones/generar-invitaciones.js`)
-> - 🧾 **Cheques gigantes de premio** Expo Show 7 (150 × 50 cm, PDF/SVG para Illustrator; $1.000.000, $500.000, $300.000, $200.000 y $100.000 o cualquier valor: `node cheque/generar-cheque.js`)
-> - 🎬 **Videos con Remotion**: ofertas, reel con textos, ruleta Pintuco, teaser, vallas animadas, promocional Roma, **video oficial Expo Show 2026**, **"Hagamos realidad su próximo proyecto"**, **Ferretería Prado del Sur en la Expo Show** y **"Repintando Sueños"** (video social del colegio) , **Canal Obras** (Congreso de Propiedad Horizontal), **Pintuco invita a la Expo Show** la plantilla **"Marca presente"** en la Expo Show 7 (1080 × 1350, cambia solo el logo) **Ruitoque en la Expo Show** (elegante, cierre negro CHP Centro de Diseño y Construcción) **Ferretería La Paz en la Expo Show** (comercial, de fiesta) y los **premios de la Expo Show** (motos y regalos con clips de Higgsfield Seedance) (`pruebas/video/`)
-> - ✂️ **Videos UGC estilo "Reseña UGC"** (TikTok Shop): me pasas el zip del crudo y sale editado: cortes secos desde la primera palabra, subtítulos en su idioma, clics y brillos, y gráficos de apoyo que nunca tapan a la persona (etiquetas, lupa, encuesta, panel de vidrio, animaciones explicativas). Los finales, uno por carpeta, en `D:USERDESCARGASUGC videos` (`pruebas/ugc/`, **paso a paso en `ugc/COMO-EDITAR.md`**)
+>
+> 🎬 **Videos**
+> - **Videos CHP con Remotion** (`pruebas/video/`; los terminados en `pruebas/video/out/`):
+>   - *Comerciales:* ofertas PAC, **Pintuco invita a la Expo Show**, **Ferretería La Paz** (de fiesta), **Ferretería Prado del Sur**, promocional **Roma**, **"Hagamos realidad su próximo proyecto"**, teaser Expo Show 7, ruleta Pintuco y los **premios de la Expo Show** (motos y regalos con clips de Higgsfield Seedance)
+>   - *Elegantes:* **Ruitoque en la Expo Show** (cierre negro CHP Centro de Diseño y Construcción)
+>   - *Corporativos e institucionales:* **video oficial Expo Show 2026**, **Canal Obras** (Congreso de Propiedad Horizontal), **"Repintando Sueños"** (social, colegio) y el reel del showroom
+>   - *Piezas:* vallas animadas Expo Show 7 (vertical, ENTRADA GRATIS, horizontal y rectangular), la plantilla **"Marca presente"** (1080 × 1350, cambia solo el logo) y el logo Expo Show animado
+> - ✂️ **Videos UGC "Reseña UGC"** (TikTok Shop): me pasas el zip del crudo y sale editado: cortes secos desde la primera palabra, subtítulos en su idioma, clics y brillos, y gráficos que nunca tapan a la persona. Los finales, uno por carpeta, en `D:\USER\DESCARGAS\UGC videos` (`pruebas/ugc/`, **paso a paso en `ugc/COMO-EDITAR.md`**)
+> - 🎞️ **Shorts virales "¿Y si…?"** (tu canal personal): con `/content-factory` de Higgsfield, estilo Grain Primary; el primero es "¿y si el oxígeno desapareciera?" (`daniel YT/`, repo privado `iNovaG/shorts-que-pasaria-si`, guía en su `LEEME.md`)
+>
+> 📄 **Catálogos e impresos CHP**
+> - **Catálogos PDF y web**: Excel → catálogo web y PDF para imprimir (`pruebas/`)
+> - **Corregir el PDF de homólogos** sin Illustrator: quitar productos, aviso "no tiene homólogo", letreros SOBREPEDIDO / PRODUCTO NUEVO / EXCLUSIVO y **cambiar fotos** de un PDF por las de otro (`pruebas/homologos/`)
+> - 💌 **Invitaciones con nombre** del Expo Show 7, una imagen por cliente (`node invitaciones/generar-invitaciones.js`)
+> - 🧾 **Cheques gigantes de premio** Expo Show 7 (150 × 50 cm, PDF/SVG para Illustrator, cualquier valor: `node cheque/generar-cheque.js`)
+>
+> 🧰 **Utilidades**
 > - 🎙️ **Transcripción** de videos con Whisper, en local (`node transcribir.js`)
 > - 🧩 **Separar logos y vallas de Illustrator** en piezas para animarlas (`node separar-logo.js`)
 > - 🖌️ **Panel de Illustrator**: exportar mesas, crear mesas, incrustar imágenes (`pruebas/panel-illustrator/`)
-> - 💰 **Bolsillo**, tus finanzas personales: https://bolsillo-two.vercel.app (`pruebas/finanzas/`)
+>
+> 🌐 **Apps y webs**
+> - 💰 **Bolsillo**, tu app de finanzas personales: https://bolsillo-two.vercel.app (`pruebas/finanzas/`)
 > - 🧑‍💻 **Portafolio**: https://daniel-vargas-portafolio.vercel.app (`portafolio carpeta/`)
 > - ✅ **Plataforma de tareas** del equipo: https://plataforma-tareas.vercel.app (`plataforma-tareas/`)
-> - 🎞️ **Shorts "¿Y si…?"** (tu canal personal): videos virales con `/content-factory` de Higgsfield, estilo Grain Primary; el primero es "¿y si el oxígeno desapareciera?" (`daniel YT/`, repo privado `iNovaG/shorts-que-pasaria-si`, guía en su `LEEME.md`)
-> - 💾 **Respaldo**: GitHub (cuenta `iNovaG`) + `COPIA-USB`, que se actualiza al terminar cada cambio
+> - 🤖 **Asesor virtual CHP** (chatbot de ventas, en desarrollo por hitos): `C:\Proyectos\chp-asesor-virtual`
 >
-> Si se agrega, se renombra o se retira una herramienta, actualiza esta lista en los
-> tres `CLAUDE.md` (`pruebas`, `portafolio carpeta` y `plataforma-tareas`).
+> 💾 **Respaldo**: GitHub (cuenta `iNovaG`, repos privados) + `COPIA-USB` (al terminar cada cambio) + tu **OneDrive personal** (`cosassupernovag@gmail.com`, carpeta `COPIA-USB`, todos los días a las 6 p. m.). Nunca en el OneDrive de CHP.
+>
+> Si se agrega, se renombra o se retira algo, actualiza esta lista en los cuatro
+> `CLAUDE.md` (`pruebas`, `portafolio carpeta`, `plataforma-tareas` y `daniel YT`) y en
+> `COPIA-USB\CLAUDE.md`.
 
 > **Puesta a punto automática (para Claude):** al empezar un chat nuevo, antes de
 > trabajar, revisa que este PC tenga todo lo que usan los proyectos e **instala lo que
