@@ -81,8 +81,12 @@
 > **Regla de Daniel: al terminar cualquier cambio, en cualquier proyecto**, sin que
 > él lo pida: 1) `git commit` + `git push`, y 2) actualiza la copia del USB con
 > `powershell -ExecutionPolicy Bypass -File "D:\USER\DESCARGAS\pruebas\actualizar-copia-usb.ps1"`
-> (copia los tres proyectos a `D:\USER\DESCARGAS\COPIA-USB` y pone la fecha en su
-> guía). Díselo en una línea al final: "Subido a GitHub y COPIA-USB actualizada".
+> (copia los proyectos y los videos UGC terminados a `D:\USER\DESCARGAS\COPIA-USB` y
+> pone la fecha en su guía). Díselo en una línea al final: "Subido a GitHub y COPIA-USB actualizada".
+> **"Actualizar todo"** (Daniel, 26 oct 2026) es además: corregir la tabla y los textos de
+> `COPIA-USB\LEEME-PRIMERO.md` si cambió qué hay en un proyecto (el script solo pone la fecha),
+> copiar cada video UGC terminado a `D:\USER\DESCARGAS\UGC videos\<N>\`, y dejar escrito en
+> los archivos del proyecto (no solo en el chat) lo que se establezca con él, para que viaje.
 > Si el script no existe en esa ruta (otro PC), díselo en vez de inventar otra copia.
 
 ---
