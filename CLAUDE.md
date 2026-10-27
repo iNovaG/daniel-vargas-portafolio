@@ -41,7 +41,7 @@
 >   - *Corporativos e institucionales:* **video oficial Expo Show 2026**, **Canal Obras** (Congreso de Propiedad Horizontal), **"Repintando Sueños"** (social, colegio) y el reel del showroom
 >   - *Piezas:* vallas animadas Expo Show 7 (vertical, ENTRADA GRATIS, horizontal y rectangular), la plantilla **"Marca presente"** (1080 × 1350, cambia solo el logo) y el logo Expo Show animado
 > - ✂️ **Videos UGC "Reseña UGC"** (TikTok Shop): me pasas el zip del crudo y sale editado: cortes secos desde la primera palabra, subtítulos en su idioma, clics y brillos, y gráficos que nunca tapan a la persona. Los finales, uno por carpeta, en `D:\USER\DESCARGAS\UGC videos` (`pruebas/ugc/`, **paso a paso en `ugc/COMO-EDITAR.md`**)
-> - 🎞️ **Shorts virales "¿Y si…?"** (tu canal personal): con `/content-factory` de Higgsfield, estilo Grain Primary; el primero es "¿y si el oxígeno desapareciera?" (`daniel YT/`, repo privado `iNovaG/shorts-que-pasaria-si`, guía en su `LEEME.md`)
+> - 🎞️ **Shorts virales "¿Y si…?"** (tu canal personal): con `/content-factory` de Higgsfield, estilo Grain Primary; ya van 10 con guion y fuentes, del oxígeno al Everest hundido en la fosa de las Marianas (`daniel YT/`, repo privado `iNovaG/shorts-que-pasaria-si`, guía en su `LEEME.md`)
 >
 > 📄 **Catálogos e impresos CHP**
 > - **Catálogos PDF y web**: Excel → catálogo web y PDF para imprimir (`pruebas/`)
