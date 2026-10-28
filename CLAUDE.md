@@ -60,7 +60,7 @@
 > - ✅ **Plataforma de tareas** del equipo: https://plataforma-tareas.vercel.app (`plataforma-tareas/`)
 > - 🤖 **Asesor virtual CHP** (chatbot de ventas, en desarrollo por hitos): `C:\Proyectos\chp-asesor-virtual`
 >
-> 💾 **Respaldo**: GitHub (cuenta `iNovaG`, repos privados) + `COPIA-USB` (al terminar cada cambio) + tu **OneDrive personal** (`cosassupernovag@gmail.com`, carpeta `COPIA-USB`, todos los días a las 6 p. m.). Nunca en el OneDrive de CHP.
+> 💾 **Respaldo**: GitHub (cuenta `iNovaG`, repos privados) + `COPIA-USB` (al terminar cada cambio) + tu **OneDrive personal** (`cosassupernovag@gmail.com`, carpeta `COPIA-USB`, todos los días a las 4:30 p. m.). Nunca en el OneDrive de CHP.
 >
 > Si se agrega, se renombra o se retira algo, actualiza esta lista en los cuatro
 > `CLAUDE.md` (`pruebas`, `portafolio carpeta`, `plataforma-tareas` y `daniel YT`) y en
