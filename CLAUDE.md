@@ -36,7 +36,7 @@
 >
 > 🎬 **Videos**
 > - **Videos CHP con Remotion** (`pruebas/video/`; los terminados en `pruebas/video/out/`):
->   - *Comerciales:* ofertas PAC, **Pintuco invita a la Expo Show**, **Celta en la Expo Show** (con sus tuberías), **Stretto en la Expo Show** (más sobrio, con su grifería), **Socoda en la Expo Show** (cocinas y lavaplatos), **Ferretería La Paz** (de fiesta), **Ferretería Prado del Sur**, promocional **Roma**, **"Hagamos realidad su próximo proyecto"**, teaser Expo Show 7, ruleta Pintuco y los **premios de la Expo Show** (motos y regalos con clips de Higgsfield Seedance)
+>   - *Comerciales:* ofertas PAC, **Pintuco invita a la Expo Show**, **Celta en la Expo Show** (con sus tuberías), **Stretto en la Expo Show** (más sobrio, con su grifería), **Socoda en la Expo Show** (cocinas y lavaplatos), **PCP en la Expo Show** (válvulas y soldaduras), **Ferretería La Paz** (de fiesta), **Ferretería Prado del Sur**, promocional **Roma**, **"Hagamos realidad su próximo proyecto"**, teaser Expo Show 7, ruleta Pintuco y los **premios de la Expo Show** (motos y regalos con clips de Higgsfield Seedance)
 >   - *Elegantes:* **Ruitoque en la Expo Show** (cierre negro CHP Centro de Diseño y Construcción)
 >   - *Corporativos e institucionales:* **video oficial Expo Show 2026**, **Cámara de Comercio de Bucaramanga en la Expo Show** (informativo), **Canal Obras** (Congreso de Propiedad Horizontal), **"Repintando Sueños"** (social, colegio) y el reel del showroom
 >   - *Piezas:* vallas animadas Expo Show 7 (vertical, ENTRADA GRATIS, horizontal y rectangular), la plantilla **"Marca presente"** (1080 × 1350, cambia solo el logo) y el logo Expo Show animado
