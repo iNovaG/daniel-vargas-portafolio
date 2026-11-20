@@ -48,6 +48,7 @@
 > - **Corregir el PDF de homólogos** sin Illustrator: quitar productos, aviso "no tiene homólogo", letreros SOBREPEDIDO / PRODUCTO NUEVO / EXCLUSIVO y **cambiar fotos** de un PDF por las de otro (`pruebas/homologos/`)
 > - 💌 **Invitaciones con nombre** del Expo Show 7, una imagen por cliente (`node invitaciones/generar-invitaciones.js`)
 > - 🧾 **Cheques gigantes de premio** Expo Show 7 (150 × 50 cm, PDF/SVG para Illustrator, cualquier valor: `node cheque/generar-cheque.js`)
+> - 🎖️ **Bono de antigüedad** CHP (tarjeta de 10 × 12 cm con foto, años, nombre y valor; la plantilla en blanco o ya llena, PDF para Illustrator y con sangrado: `node impresos/bono-antiguedad/generar.js`)
 >
 > 🧰 **Utilidades**
 > - 🎙️ **Transcripción** de videos con Whisper, en local (`node transcribir.js`)
