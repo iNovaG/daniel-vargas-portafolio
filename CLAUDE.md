@@ -61,6 +61,7 @@
 > - 🧑‍💻 **Portafolio**: https://daniel-vargas-portafolio.vercel.app (`portafolio carpeta/`)
 > - ✅ **Plataforma de tareas** del equipo: https://plataforma-tareas.vercel.app (`plataforma-tareas/`)
 > - 🤖 **Asesor virtual CHP** (chatbot de ventas, en desarrollo por hitos): `C:\Proyectos\chp-asesor-virtual`
+> - 📊 **CHP Métricas** (dashboard de Facebook, Instagram y pauta; prototipo con datos de ejemplo): `C:\Proyectos\chp-metricas`
 >
 > 💾 **Respaldo**: GitHub (cuenta `iNovaG`, repos privados) + `COPIA-USB` (al terminar cada cambio) + tu **OneDrive personal** (`cosassupernovag@gmail.com`, carpeta `COPIA-USB`, todos los días a las 4:30 p. m.). Nunca en el OneDrive de CHP.
 >
