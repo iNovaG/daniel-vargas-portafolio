@@ -46,6 +46,7 @@
 > 📄 **Catálogos e impresos CHP**
 > - **Catálogos PDF y web**: Excel → catálogo web y PDF para imprimir (`pruebas/`)
 > - **Corregir el PDF de homólogos** sin Illustrator: quitar productos, aviso "no tiene homólogo", letreros SOBREPEDIDO / PRODUCTO NUEVO / EXCLUSIVO y **cambiar fotos** de un PDF por las de otro (`pruebas/homologos/`)
+> - 🚿 **Fichas técnicas GRIFETTO** (sanitarios y lavamanos, minimalistas a 2 páginas: portada con ambiente hecho en Higgsfield y hoja técnica con fotos, tabla y planos vectoriales; ya están las 11: Madrid negro/gris/arena, Duna, Tokio, Moscú, Santorini, Amalfi, Positano, Capri y Pisa: `node fichas-grifetto/generar.js`)
 > - 💌 **Invitaciones con nombre** del Expo Show 7, una imagen por cliente (`node invitaciones/generar-invitaciones.js`)
 > - 🧾 **Cheques gigantes de premio** Expo Show 7 (150 × 50 cm, PDF/SVG para Illustrator, cualquier valor: `node cheque/generar-cheque.js`)
 > - 🎖️ **Bono de antigüedad** CHP (horizontal de 18 × 10 cm con fondo de diseñador hecho en Higgsfield, logo CHP real, foto, años, nombre y valor; la plantilla en blanco o ya llena, PDF para Illustrator y con sangrado: `node impresos/bono-antiguedad/generar.js`; la primera versión, plana de 10 × 12 cm, con `--vertical`)
