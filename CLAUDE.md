@@ -51,7 +51,7 @@
 > - 🧾 **Cheques gigantes de premio** Expo Show 7 (150 × 50 cm, PDF/SVG para Illustrator, cualquier valor: `node cheque/generar-cheque.js`)
 > - 🎖️ **Bono de antigüedad** CHP (horizontal de 18 × 10 cm con fondo de diseñador hecho en Higgsfield, logo CHP real, foto, años, nombre y valor; la plantilla en blanco o ya llena, PDF para Illustrator y con sangrado: `node impresos/bono-antiguedad/generar.js`; la primera versión, plana de 10 × 12 cm, con `--vertical`)
 > - 🏍️ **"Pinta, gana y arranca": siga participando** (historia 1080 × 1920, feed 1080 × 1350 e historia animada, hechas con Higgsfield GPT Image 2.6 y Seedance 2.5, con el logo original de la campaña encima: `impresos/pinta-gana-arranca/`; y el **video del presentador** editado en `video/`)
-> - 🌅 **Insignia 3D "Gran Madrugón · Ofertas"** CHP, **render 3D real** (three.js: letras Montserrat Black extruidas con bisel, plástico brillante, aro de vidrio, sol, nubes, monedas y el logo CHP oficial; nada de IA en las letras; PNG sin fondo: `node impresos/gran-madrugon/render3d/render.js`)
+> - 🌅 **Insignia 3D "Gran Madrugón · Ofertas"** CHP (estilo render de Cinema 4D como la referencia "Dia de Oferta": letras gruesas tipo Montserrat, aro de vidrio y sol; hecha en Higgsfield con el logo CHP oficial encima; 4 variantes PNG sin fondo: `impresos/gran-madrugon/final/`)
 >
 > 🧰 **Utilidades**
 > - 🎙️ **Transcripción** de videos con Whisper, en local (`node transcribir.js`)
