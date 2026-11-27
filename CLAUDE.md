@@ -54,6 +54,7 @@
 > - 🌅 **Insignia 3D "Gran Madrugón · Ofertas"** CHP (estilo render de Cinema 4D como la referencia "Dia de Oferta": letras gruesas tipo Montserrat, aro de vidrio y sol; hecha en Higgsfield con el logo CHP oficial encima; 4 variantes PNG sin fondo: `impresos/gran-madrugon/final/`)
 > - 📱 **Black Friday CHP en historia** (el post 1080 × 1350 adaptado a 1080 × 1920: Higgsfield pinta solo las franjas de arriba y abajo y el diseño original va encima píxel a píxel: `impresos/black-friday-historia/`)
 > - 🏆 **Titular 3D "PRIMA QUE MADRUGA"** (estilo "Grand Opening": dorado y plata con bisel azul; con contenedor dorado y solo texto, sin fondo, hecho en Higgsfield: `impresos/prima-que-madruga/final/`)
+> - 📣 **Pieza "¡Prepárate! Prima que madruga"** (post 1080 × 1350 e historia 1080 × 1920: fondo azul oscuro, titular 3D, recibo 3D con "ESPÉRALA MUY PRONTO" en Montserrat y logo CHP oficial: `node impresos/prima-que-madruga/pieza/render.js`)
 >
 > 🧰 **Utilidades**
 > - 🎙️ **Transcripción** de videos con Whisper, en local (`node transcribir.js`)
